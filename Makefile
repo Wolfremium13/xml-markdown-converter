@@ -21,12 +21,12 @@ tests:  ## Locally run tests
 	@PYTHONPATH=src PIPENV_VERBOSITY=-1 pipenv run pytest -v tests/
 
 .PHONY: run-local
-run-local: # Runs locally the project
+run-local: ## Runs locally the project
 	@PYTHONPATH=src PIPENV_VERBOSITY=-1 pipenv run python -m src
 
 OUTPUT_XML_FILE = ./data/updated-xml-data.xml
 .PHONY: update-xml
-update-xml: # Updates the xml file
+update-xml: ## Updates the xml file
 	@echo "Starting download of the xml file"
 	@wget "https://podcast.carlosble.com/feed/podcast" --output-document=$(OUTPUT_XML_FILE)
 	@echo "Finished download in $(OUTPUT_XML_FILE)"
