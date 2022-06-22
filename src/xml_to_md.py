@@ -10,13 +10,13 @@ from src.episode import Episode
 class XMLToMarkdown:
 
     def parse(self, xml_path) -> str:
-        content = self._read_file_content(xml_path)
+        content = self._read_xml_content(xml_path)
         podcast = self._parse_xml_to_podcast(content)
         content_episodes = [p for p in content if p.tag == "item"]
         episodes = map(self._parse_xml_to_episode, content_episodes)
         return self._parse_to_markdown(podcast, episodes)
 
-    def _read_file_content(self, xml_path):
+    def _read_xml_content(self, xml_path):
         tree = ET.parse(xml_path)
         rss_tag = tree.getroot()
         channel_tag = rss_tag[0]
