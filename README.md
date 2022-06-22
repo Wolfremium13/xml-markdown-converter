@@ -1,72 +1,22 @@
 # 🐍 XML to Markdown converter and viceversa
 
-## 🧑‍💻 Install project (Pipenv Required)
+## 🗃️ Requirements
+- Python 3.10
+- Pipenv
 
-### Make
+## 🧑‍💻 Install project
 
 ```bash
 make setup
 ```
 
-### Pipenv
+## ❓Help
 
 ```bash
-pipenv install --dev
+make help
 ```
 
-## 🚀 Run project
-
-### Make
-
-```bash
-make run-local
-```
-
-### Pytest
-
-```bash
-pipenv run python -m src
-```
-
-## 🧪 Tests
-
-### Make
-
-```bash
-make tests
-```
-
-### Pytest
-
-```bash
-pipenv run pytest
-```
-
-Run tests with coverage:
-
-```bash
-pipenv run pytest --cov
-```
-
-## 🎨 Linter
-
-### Make
-
-```bash
-make lint
-```
-
-### Autopep
-
-```bash
-pipenv run autopep8 -i -r ./
-```
-
-### Flake
-
-```bash
-pipenv run flake8 ./
-```
+# 📕 Documentation
 
 ## 📝 Setup project
 
@@ -83,3 +33,4 @@ pipenv run flake8 ./
 ## 🧐 References
 
 - [Markdownify](https://pypi.org/project/markdownify/)
+- [XML Parser](https://docs.python.org/3/library/xml.etree.elementtree.html)
