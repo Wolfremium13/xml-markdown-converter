@@ -10,11 +10,42 @@ author_name: "Carlos Blé"
 author_email: "carlos@carlosble.com"
 image_link: "https://podcast.carlosble.com/wp-content/uploads/2021/10/nicero_niuno.jpg"
 episodes:
+  - title: "E35: ¿Qué es un Open Space?"
+    link: "https://podcast.carlosble.com/podcast/e35-que-es-un-open-space/"
+    date: "Wed, 22 Jun 2022 15:27:02 +0000"
+    description: "   
+
+
+Entrevista con [Adrián Perreau](http://adrianperreau.com), mi facilitador favorito de open spaces. Se trata de un formato de congreso diferente al tradicional, un formato muy abierto como su nombre indica. Te contamos cómo funciona y trucos para sacarle el máximo partido. Ahora que vuelven los eventos presenciales no te puedes perder los que tienen formato de espacio abierto.
+
+Recursos comentados en el episodio:
+* [Libro: Open Space Technology de Harrison Owen](https://www.goodreads.com/book/show/3324626-open-space-technology)
+* [AOS: Agile Open Space](https://agile-spain.org/aos/)
+* [Socrates](https://www.socrates-conference.de/home), [Socrates UK](https://socratesuk.org/), [Socrates Canarias (a.k.a Socracan)](https://www.socracan.com/)
+* [Agile Coach Camp](https://agilecoachcamp.net/)
+* [BAOS: Big Agile Open Space](https://bigagileos.wixsite.com/website)
+* [Software Crafters Pamplona](https://pamplonaswcraft.com/)
+* [Software Crafters Barcelona](https://softwarecrafters.barcelona/)
+* Apache Barcampes (parece que ya no se hace)
+* [Código sostenible](https://codigosostenible.com)
+
+
+
+
+Newsletters: 
+* de [Carlos Blé](https://www.subscribepage.com/v3z8u6)
+* de [Lean Mind](https://www.subscribepage.com/p3v4h5)
+
+
+Canales de Telegram: 
+* de [Carlos Blé](https://t.me/carlosble)
+* de [Lean Mind](https://t.me/leanmind)
+"
+    link_mp3: "https://podcast.carlosble.com/podcast-download/1230/e35-que-es-un-open-space.mp3"
   - title: "E34: Vocación docente"
     link: "https://podcast.carlosble.com/podcast/e34-vocacion-docente/"
     date: "Wed, 01 Jun 2022 15:03:09 +0000"
-    description: "
-   
+    description: "   
 Entrevista con [Goyo Regalado](https://www.linkedin.com/in/goyoregalado/) sobre educación, aprendizaje, formación profesional, alumnado y relaciones con la empresa. Goyo expresa de maravilla su visión sobre lo que significa ser docente, la misión de la escuela, y también de la profesión de desarrollador. Es profesor de formación profesional, además tuvo su propia empresa y ha trabajado por cuenta ajena para otras empresas de desarrollo. 
 
 
@@ -38,15 +69,12 @@ Canales de Telegram:
 
 * de [Carlos Blé](https://t.me/carlosble)
 * de [Lean Mind](https://t.me/leanmind)
-
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1226/e34-vocacion-docente.mp3"
   - title: "E33: La diversidad en los equipos"
     link: "https://podcast.carlosble.com/podcast/e33-la-diversidad-en-los-equipos/"
     date: "Thu, 12 May 2022 11:59:35 +0000"
-    description: "
-   
+    description: "   
 Primer episodio sobre la diversidad en los equipos de trabajo, un asunto muy importante por muchos motivos. Equipos con personas que tienen diferentes experiencias vitales y puntos de vista, que trabajan bien juntas. Te hablo de lecturas que me han sido tremendamente útiles, así como de algunas cosas que hacemos en la organización en la que trabajo. También hay algunas noticias sobre Código sostenible.
 
 
@@ -78,15 +106,12 @@ Canales de Telegram:
 
 * de [Carlos Blé](https://t.me/carlosble)
 * de [Lean Mind](https://t.me/leanmind)
-
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1223/e33-la-diversidad-en-los-equipos.mp3"
   - title: "E32: ¿Para qué impartir una ponencia?"
     link: "https://podcast.carlosble.com/podcast/e32-para-que-impartir-una-ponencia/"
     date: "Thu, 14 Apr 2022 15:58:24 +0000"
-    description: "
-   
+    description: "   
 
 
 ¿Para qué dar una charla?, ¿por qué exponerse?, ¿qué puedes aportar cuando parece que ya está todo en internet?. En este episodio converso con [Adrián Ferrera](https://adrianferrera.com/), [Francisco Mesa](https://franciscomesa.es/) y [Miguel Cabrera](https://twitter.com/mcabsan). Además, contamos con mensajes grabados de ponentes que me encantan, Yodra López, Jorge J. Barroso, Aida Albarrán y Alexandra Rivero.
@@ -113,15 +138,12 @@ Newsletters:
 Canales de Telegram: 
 * de [Carlos Blé](https://t.me/carlosble)
 * de [Lean Mind](https://t.me/leanmind)
-
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1220/e32-para-que-impartir-una-ponencia.mp3"
   - title: "E31: El sendero de la maestría (III)"
     link: "https://podcast.carlosble.com/podcast/e31-el-sendero-de-la-maestria-iii/"
     date: "Fri, 18 Mar 2022 09:43:27 +0000"
-    description: "
-   
+    description: "   
 Terminamos la serie de epidosodios sobre aprendizaje (por ahora), con el gran [Jose Enrique Rodríguez Huerta](https://www.linkedin.com/in/jrhuerta/?originalSubdomain=es), actualmente director de [Codurance](https://www.codurance.com/) España. En esta conversación José nos habla de cultura empresarial, liderazgo, carrera profesional, trabajo en equipo y por supuesto, aprendizaje.
 
 
@@ -144,15 +166,12 @@ Canales de Telegram:
 
 * de [Carlos Blé](https://t.me/carlosble)
 * de [Lean Mind](https://t.me/leanmind)
-
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1216/e31-el-sendero-de-la-maestria-iii.mp3"
   - title: "E30: Salud mental"
     link: "https://podcast.carlosble.com/podcast/e30-salud-mental/"
     date: "Thu, 24 Feb 2022 14:46:07 +0000"
-    description: "
-   
+    description: "   
 Parece mentira que los temas de salud mental sigan siendo tabú, pero en muchos entornos y culturas, aún lo son, por desconocimiento, por miedo o por cualquier otro motivo. La mayoría de las personas vamos a experimentar un deficit de salud mental en algún momento de nuestras vidas. Es más común de lo que parece. Este episodio trata de visibilizar que es parte de la vida misma y te propone algunas herramientas. Hablo por ejemplo de las diferencias entre life coaching, psicoteria y psiquiatría.
 
 
@@ -188,15 +207,12 @@ Canales de Telegram:
 
 * de [Carlos Blé](https://t.me/carlosble)
 * de [Lean Mind](https://t.me/leanmind)
-
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1213/e30-salud-mental.mp3"
   - title: "E29: El sendero de la maestría (II)"
     link: "https://podcast.carlosble.com/podcast/e29-el-sendero-de-la-maestria-ii/"
     date: "Mon, 31 Jan 2022 19:09:49 +0000"
-    description: "
-   
+    description: "   
 Este episodio es una conversación con mi amiga, coach personal y también coach de nuestro equipo, Rosa Elvira González ([Adelante Talento](http://www.adelante-talento.es/)). Ella nos cuenta su punto de vista y su experiencia en las relaciones de aprendizaje y de sinergia, tanto entre individuos, como, dentro de las organizaciones.
 
 
@@ -218,15 +234,12 @@ Canales de Telegram:
 
 * de [Carlos Blé](https://t.me/carlosble)
 * de [Lean Mind](https://t.me/leanmind)
-
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1209/e29-el-sendero-de-la-maestria-ii.mp3"
   - title: "E28: El sendero de la maestría (I)"
     link: "https://podcast.carlosble.com/podcast/e28-el-sendero-de-la-maestria-i/"
     date: "Fri, 31 Dec 2021 18:20:53 +0000"
-    description: "
-   
+    description: "   
 
 
 Esta serie de episodios va sobre el aprendizaje a través de la relación con personas y situaciones de las que podemos aprender. Este episodio cuenta algunas historias y puntos de vista personales. En los siguientes hay conversaciones y puntos de vista diferentes.
@@ -245,15 +258,12 @@ Newsletters:
 Canales de Telegram: 
 * de [Carlos Blé](https://t.me/carlosble)
 * de [Lean Mind](https://t.me/leanmind)
-
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1206/e28-el-sendero-de-la-maestria-i.mp3"
   - title: "E27: Trabajo en remoto y productividad"
     link: "https://podcast.carlosble.com/podcast/e27-trabajo-en-remoto-y-productividad/"
     date: "Sat, 18 Dec 2021 12:12:23 +0000"
-    description: "
-   
+    description: "   
 Ahora que muchos trabajamos en remoto la mayoría del tiempo, estamos trasladando los clásicos hábitos improductivos de las oficinas a casa. Incluso estamos adquiriendo peores hábitos. Intentamos hacer multitarea mientras estamos en una reunión, nos saltan notificaciones por todas partes, sentimos mucha prisa por responder cuanto antes cualquier mensaje de Slack/Teams/etc, y miramos el correo mil veces. Algunas personas se pasan el día entero de reuniones y otras por evitarlas se lo pasan chateando y mandando capturas de pantalla. ¿Qué implicaciones tiene esto en la productividad?, ¿tenemos otras formas de trabajar en remoto? En este episodio converso con mi compañero:
 
 
@@ -284,15 +294,12 @@ Canales de Telegram:
 
 * de [Carlos Blé](https://t.me/carlosble)
 * de [Lean Mind](https://t.me/leanmind)
-
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1202/e27-trabajo-en-remoto-y-productividad.mp3"
   - title: "E26: Cómo mejorar tu inglés"
     link: "https://podcast.carlosble.com/podcast/e26-como-mejorar-tu-ingles/"
     date: "Thu, 28 Oct 2021 22:39:37 +0000"
-    description: "
-   
+    description: "   
 
 
 Desmitificamos el aprendizaje del inglés. En este episodio te contamos experiencias reales del aprendizaje de los idiomas, sobre todo del inglés, el rey en el mundo de la tecnología. Además hay consejos varios que te serán muy útiles. Las colaboraciones del episodio han sido de:
@@ -325,15 +332,12 @@ Newsletters:
 Canales de Telegram: 
 * de [Carlos Blé](https://t.me/carlosble)
 * de [Lean Mind](https://t.me/leanmind)
-
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1199/e26-como-mejorar-tu-ingles.mp3"
   - title: "E25: Salarios abiertos"
     link: "https://podcast.carlosble.com/podcast/e25-salarios-abiertos/"
     date: "Wed, 15 Sep 2021 14:57:13 +0000"
-    description: "
-   
+    description: "   
 Por fin llega el episodio sobre los salarios abiertos, tratamos de responder a las siguientes preguntas: ¿debería todo el mundo, en una empresa, conocer el sueldo de los demás?, ¿cuáles son los beneficios?, ¿y los inconvenientes? Contamos con la inestimable participación de:
 
 
@@ -366,15 +370,12 @@ Canales de Telegram:
 
 * de [Carlos Blé](https://t.me/carlosble)
 * de [Lean Mind](https://t.me/leanmind)
-
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1192/e25-salarios-abiertos.mp3"
   - title: "E24: La motivación"
     link: "https://podcast.carlosble.com/podcast/e24-la-motivacion/"
     date: "Sun, 25 Jul 2021 22:49:05 +0000"
-    description: "
-   
+    description: "   
 Este es un episodio especial, grabado en 2020, como keynote para Codemotion Spanish Edition. Este podcast contiene el mensaje completo de la keynote, tal cual fue emitida (versión completa). Hemos esperado a publicarlo porque hemos estado trabajando en la versión vídeo de la keynote, y estamos muy contentos en con los resultados:
 
 
@@ -407,15 +408,12 @@ Canales de Telegram:
 
 * de [Carlos Blé](https://t.me/carlosble)
 * de [Lean Mind](https://t.me/leanmind)
-
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1189/e24-la-motivacion.mp3"
   - title: "E23: Hablemos de salarios"
     link: "https://podcast.carlosble.com/podcast/e23-hablemos-de-salarios/"
     date: "Wed, 16 Jun 2021 08:43:31 +0000"
-    description: "
-   
+    description: "   
 ¿Cómo negociar el salario?, ¿cómo negociar una subida?, ¿cómo calibramos en  [Lean Mind](https://leanmind.es) lo que podemos ofrecer? Este episodio es un buen complemento al episodio número 4. Te hablo de valor, coste y escasez, así como de fiscalidad.
 
 
@@ -440,15 +438,12 @@ Canales de Telegram:
 
 * de [Carlos Blé](https://t.me/carlosble)
 * de [Lean Mind](https://t.me/leanmind)
-
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1184/e23-hablemos-de-salarios.mp3"
   - title: "E22: La entrevista de trabajo"
     link: "https://podcast.carlosble.com/podcast/e22-la-entrevista-de-trabajo/"
     date: "Mon, 24 May 2021 22:05:47 +0000"
-    description: "
-   
+    description: "   
 La entrevista es una ocasión para que quien se presenta al puesto evalúe si le parece suficientemente atractiva la empresa y viceversa. Es un punto de encuentro para conocer los valores e intereses de cada una de las partes y estudiar si será productiva la colaboración. En este episodio te cuento cómo he vivido las entrevistas desde los dos lados, como candidato y como empresario. Hablo también de cómo hacemos las entrevistas en [Lean Mind](https://leanmind.es).
 
 
@@ -468,14 +463,12 @@ Recursos citados o relacionados con el episodio:
 
 Newsletters: de [Carlos Blé](https://www.subscribepage.com/v3z8u6) y de [Lean Mind](https://www.subscribepage.com/p3v4h5) Canales de Telegram: de [Carlos Blé](https://t.me/carlosble) y de [Lean Mind](https://t.me/leanmind)
 
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1181/e22-la-entrevista-de-trabajo.mp3"
   - title: "E21: Beneficios de escribir un blog"
     link: "https://podcast.carlosble.com/podcast/e21-beneficios-de-escribir-un-blog/"
     date: "Thu, 15 Apr 2021 09:24:46 +0000"
-    description: "
-   
+    description: "   
 ¿Cuáles son los beneficios de escribir en un blog o en un diario? A lo mejor escribir un blog no es lo que piensas. Este episodio puede aclararte algunas dudas y animarte a escribir. Contamos con unas contribuciones de auténtico lujo, desde aquí quero dar las gracias a todas las personas que se han tomado el tiempo de grabar su mensaje.
 
 
@@ -511,14 +504,12 @@ Newsletters: de [Carlos Blé](https://www.subscribepage.com/v3z8u6) y de [Lean M
 
 Canales de Telegram: de [Carlos Blé](https://t.me/carlosble) y de [Lean Mind](https://t.me/leanmind)
 
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1177/e21-beneficios-de-escribir-un-blog.mp3"
   - title: "E20: Curriculum y carta de presentación"
     link: "https://podcast.carlosble.com/podcast/e20-curriculum-y-carta-de-presentacion/"
     date: "Wed, 17 Mar 2021 22:36:53 +0000"
-    description: "
-   
+    description: "   
 Episodio pensado para las personas que están buscando trabajo, ya sea su primer empleo o un cambio de empresa. Pistas sobre lo que algunas empresas de tecnología valoramos de las candidaturas. Te contamos cómo puedes preparar tu curriculum y tu email o tu carta de presentación. Escucharás que hay puntos de vista diferentes, incluso algunos opuestos. Esto enriquece el episodio. Contamos con unas contribuciones de auténtico lujo, desde aquí quero dar las gracias a todas las personas que se han tomado el tiempo de grabar su mensaje.
 
 
@@ -549,14 +540,12 @@ Newsletters: de [Carlos Blé](https://www.subscribepage.com/v3z8u6) y de [Lean M
 
 Canales de Telegram: de [Carlos Blé](https://t.me/carlosble) y de [Lean Mind](https://t.me/leanmind)
 
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1172/e20-curriculum-y-carta-de-presentacion.mp3"
   - title: "E19: CRUD y ORM"
     link: "https://podcast.carlosble.com/podcast/e19-crud-y-orm/"
     date: "Thu, 11 Feb 2021 15:23:04 +0000"
-    description: "
-   
+    description: "   
 Pros y contras del enfoque [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)  y de los [ORM](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping) (Object Relational Mapper), contado con historietas de la vida real. Esta es la continuación del episodio 18 así que te recomiendo que primero escuches ese.
 
 
@@ -574,14 +563,12 @@ Newsletters: [Carlos Blé](https://www.subscribepage.com/v3z8u6), [Lean Mind](ht
 
 Canales de Telegram: [Carlos Blé,](https://t.me/carlosble) [Lean Mind](https://t.me/leanmind) 
 
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1167/e19-crud-y-orm.mp3"
   - title: "E18: Las apps del futuro"
     link: "https://podcast.carlosble.com/podcast/e18-las-apps-del-futuro/"
     date: "Sun, 24 Jan 2021 00:41:33 +0000"
-    description: "
-   
+    description: "   
  
 
 
@@ -621,15 +608,12 @@ Recursos citados o relacionados con el episodio:
 * [Discover to deliver](https://www.discovertodeliver.com/)
 * [Event Storming](https://www.eventstorming.com/)
 * [Design Sprint](https://designsprint.org/en/)
-
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1163/e18-las-apps-del-futuro.mp3"
   - title: "E17: Ergonomía y hábitos saludables"
     link: "https://podcast.carlosble.com/podcast/e17-ergonomia-y-habitos-saludables/"
     date: "Wed, 13 Jan 2021 11:10:17 +0000"
-    description: "
-   
+    description: "   
  
 
 
@@ -674,15 +658,12 @@ Recursos citados o relacionados con el episodio:
 * [Standing desks en PC Componentes](https://www.pccomponentes.com/digitus-da-90388-bastidor-de-mesa-electrico-con-ajuste-de-altura-62-128-cm-blanca)
 * [Auriculares HyperX](https://www.hyperxgaming.com/spain/es/headsets/cloud-stinger-gaming-headset)
 * [Micrófonos y sonido Jabra](https://www.jabra.es/)
-
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1158/e17-ergonomia-y-habitos-saludables.mp3"
   - title: "E16: Una década de TDD"
     link: "https://podcast.carlosble.com/podcast/e16-una-decada-de-tdd/"
     date: "Mon, 21 Dec 2020 16:43:49 +0000"
     description: "
-
 
 
 
@@ -735,15 +716,12 @@ Recursos citados con el episodio:
 * [Goos book](http://www.growing-object-oriented-software.com/)
 * [Test-driven Development by Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
 * La música que se oye al final del episodio, fue [un directo que hicimos](https://www.youtube.com/watch?v=UEfbXHoc6UE) el año pasado en CAS2019
-
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1149/e16-una-decada-de-tdd.mp3"
   - title: "E15: Ética profesional"
     link: "https://podcast.carlosble.com/podcast/e15-etica-profesional/"
     date: "Fri, 11 Dec 2020 20:51:52 +0000"
-    description: "
-  
+    description: "  
 
 
 
@@ -777,15 +755,12 @@ Recursos citados con el episodio:
 * [The Great Hack](https://www.netflix.com/es-en/title/80117542)
 * [Clean Code](https://www.amazon.es/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 * Mi libro, [Diseño ágil con TDD](https://www.carlosble.com/libro-tdd)
-
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1145/e15-etica-profesional.mp3"
   - title: "E14: Refactoring"
     link: "https://podcast.carlosble.com/podcast/e14-refactoring/"
     date: "Thu, 26 Nov 2020 19:43:39 +0000"
-    description: "
-  
+    description: "  
 
 
 
@@ -824,14 +799,12 @@ Recursos relacionados con el episodio:
 
 
 
- 
- "
+ "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1142/e14-refactoring.mp3"
   - title: "E13: Developer se convierte en manager"
     link: "https://podcast.carlosble.com/podcast/e13-developer-se-convierte-en-manager/"
     date: "Thu, 29 Oct 2020 10:07:52 +0000"
-    description: "
-  
+    description: "  
 
 
 
@@ -863,14 +836,12 @@ Newsletters:
 
 
 
- 
- "
+ "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1132/e13-developer-se-convierte-en-manager.mp3"
   - title: "E12: Comentarios en el código y documentación"
     link: "https://podcast.carlosble.com/podcast/e12-comentarios-en-el-codigo-y-documentacion/"
     date: "Sun, 20 Sep 2020 22:04:24 +0000"
-    description: "
-Retomamos uno de los asuntos mencionados en el episodio 10, los comentarios en el código y de paso hablamos de otros tipos de documentación. Entre el extremo de escribir comentarios para absolutamente todo y el de escribir cero comentarios, está el punto en el que ponemos foco en el episodio.
+    description: "Retomamos uno de los asuntos mencionados en el episodio 10, los comentarios en el código y de paso hablamos de otros tipos de documentación. Entre el extremo de escribir comentarios para absolutamente todo y el de escribir cero comentarios, está el punto en el que ponemos foco en el episodio.
 
 
 Ejemplos de comentarios útiles:
@@ -935,14 +906,12 @@ Newsletters:
 
 
 
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1128/e12-comentarios-en-el-codigo-y-documentacion.mp3"
   - title: "E11: Las personas primero"
     link: "https://podcast.carlosble.com/podcast/e11-las-personas-primero/"
     date: "Fri, 07 Aug 2020 13:31:58 +0000"
-    description: "
- Hacemos un inciso en la temática técnica para hablar de "soft skills", de esas habilidades que cuesta tanto cultivar. Este podcast es un regalo para mí yo del pasado y un recordatorio para mi yo del futuro. De cómo puede ser, que por quererlo hacer muy bien, uno pueda estropear las relaciones y los equipos. Sobre el balance entre la excelencia técnica y la excelencia en el trato personal o entre los objetivos  a corto plazo y a largo plazo.
+    description: "Hacemos un inciso en la temática técnica para hablar de "soft skills", de esas habilidades que cuesta tanto cultivar. Este podcast es un regalo para mí yo del pasado y un recordatorio para mi yo del futuro. De cómo puede ser, que por quererlo hacer muy bien, uno pueda estropear las relaciones y los equipos. Sobre el balance entre la excelencia técnica y la excelencia en el trato personal o entre los objetivos  a corto plazo y a largo plazo.
 
 Notas:
 * Tenemos el lujo de contar con [Rosa Elvira González](http://www.adelante-talento.es/), mi coach personal y nuestra coach de empresa, la cual sin duda te recomiendo.
@@ -966,14 +935,12 @@ Newsletters:
 
 
 
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/1119/e11-las-personas-primero.mp3"
   - title: "E10: Principios sacados de contexto"
     link: "https://podcast.carlosble.com/podcast/principios-sacados-de-contexto/"
     date: "Tue, 14 Jul 2020 19:58:14 +0000"
-    description: "
-¿Todavía piensas que una función debe tener un único "return"? ¿que no debes "escribir" en un parámetro de la función? ¿que las constantes deben colocarse arriba del todo? ¿que la eficiencia del código es lo más importante?
+    description: "¿Todavía piensas que una función debe tener un único "return"? ¿que no debes "escribir" en un parámetro de la función? ¿que las constantes deben colocarse arriba del todo? ¿que la eficiencia del código es lo más importante?
 
 
 Aquí te cuento por qué algunos viejos principios/consejos se han quedado obsoletos, fuera de contexto y como a pesar de ello se siguen aplicando hoy en día. Explico sus razones históricas y el por qué no son convenientes hoy en día. Algunos típicos del mundo académico y otros del mundo empresarial. ¿Cuáles de estos principios sigues aplicando desde siempre? Tienes los comentarios para comentar y añadir lo que quieras.
@@ -999,14 +966,12 @@ Newsletters:
 
 
 
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/176/principios-sacados-de-contexto.mp3"
   - title: "E9: Mob programming"
     link: "https://podcast.carlosble.com/podcast/e9-mob-programming/"
     date: "Sun, 14 Jun 2020 20:19:41 +0000"
-    description: "
-Mob programming es una actividad que consiste en programar en grupo: más de dos personas en el mismo lugar, con la misma tarea, con la misma máquina. Una práctica ideal para construir equipo y elevar la calidad del código.
+    description: "Mob programming es una actividad que consiste en programar en grupo: más de dos personas en el mismo lugar, con la misma tarea, con la misma máquina. Una práctica ideal para construir equipo y elevar la calidad del código.
 
 
 Agradecimientos a las personas que contribuyen con este episodio:
@@ -1041,14 +1006,12 @@ Newsletters:
 
 
 
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/161/e9-mob-programming.mp3"
   - title: "E8: Pair programming"
     link: "https://podcast.carlosble.com/podcast/pair-programming/"
     date: "Sun, 10 May 2020 15:00:19 +0000"
-    description: "
-Programación en pares o pair programming, una de las prácticas core de eXtreme Programming. Parece simple, dos personas trabajando juntas en una máquina, pero no es tan sencillo. Requiere disciplina, formación y hacer retrospectivas contínuas. Aquí te cuento mi experiencia y también tenemos la suerte de contar con opiniones y consejos de:
+    description: "Programación en pares o pair programming, una de las prácticas core de eXtreme Programming. Parece simple, dos personas trabajando juntas en una máquina, pero no es tan sencillo. Requiere disciplina, formación y hacer retrospectivas contínuas. Aquí te cuento mi experiencia y también tenemos la suerte de contar con opiniones y consejos de:
 
 
 * [Oscar Moreno](https://www.twitter.com/omorenomartin)
@@ -1074,14 +1037,12 @@ Notas:
 
 
 
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/149/pair-programming.mp3"
   - title: "E7:Trabajar bajo presión"
     link: "https://podcast.carlosble.com/podcast/e7trabajar-bajo-presion/"
     date: "Tue, 21 Apr 2020 13:08:21 +0000"
-    description: "
-Un poco de presión es necesaria pero el exceso de presión es contraproducente. ¿Cuáles son las causas que nos llevan a trabajar bajo excesiva presión? ¿por qué llegamos a sufrir estres y ansiedad en ocasiones? En este podcast te cuento motivos y estrategias para gestionar el nivel de presión en los proyectos de desarrollo de software.
+    description: "Un poco de presión es necesaria pero el exceso de presión es contraproducente. ¿Cuáles son las causas que nos llevan a trabajar bajo excesiva presión? ¿por qué llegamos a sufrir estres y ansiedad en ocasiones? En este podcast te cuento motivos y estrategias para gestionar el nivel de presión en los proyectos de desarrollo de software.
 
 
 Notas del episodio:
@@ -1089,24 +1050,19 @@ Notas del episodio:
 
 * [Entiende tu mente](https://entiendetumente.info)
 * [Savvy Psychologist](https://www.quickanddirtytips.com/savvy-psychologist)
-
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/146/e7trabajar-bajo-presion.mp3"
   - title: "E6: Software para la ciudadanía"
     link: "https://podcast.carlosble.com/podcast/e6-software-para-la-ciudadania/"
     date: "Sun, 29 Mar 2020 18:55:05 +0000"
-    description: "
-Segundo episodio dentro del confinamiento del COVID-19, grabado el 29 de Marzo de 2020. En este episodio explico por qué pienso que el software que se hace para los ciudadanos debe ser software libre, código abierto. También advierto de los peligros de hacer software sin consultar a los expertos en materia de asuntos sociales y de jugar a ser una startup tecnológica en plena crisis sanitaria y ya también crisis económica. Hablo de sentido común y de tener cuidado para no hacer daño queriendo ayudar. Porque la tecnología puede tener un efecto muy negativo para la sociedad especialmente en los momentos de vulnerabilidad como este. Desde este podcast te invito a que tengas cuidado cuando difundas apps que supuestamente van a ayudar a la gente y te explico por qué. Gracias por escucharlo. 
-
+    description: "Segundo episodio dentro del confinamiento del COVID-19, grabado el 29 de Marzo de 2020. En este episodio explico por qué pienso que el software que se hace para los ciudadanos debe ser software libre, código abierto. También advierto de los peligros de hacer software sin consultar a los expertos en materia de asuntos sociales y de jugar a ser una startup tecnológica en plena crisis sanitaria y ya también crisis económica. Hablo de sentido común y de tener cuidado para no hacer daño queriendo ayudar. Porque la tecnología puede tener un efecto muy negativo para la sociedad especialmente en los momentos de vulnerabilidad como este. Desde este podcast te invito a que tengas cuidado cuando difundas apps que supuestamente van a ayudar a la gente y te explico por qué. Gracias por escucharlo. 
 
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/135/e6-software-para-la-ciudadania.mp3"
   - title: "E5: Llamada a la acción"
     link: "https://podcast.carlosble.com/podcast/e5-llamada-a-la-accion/"
     date: "Sun, 15 Mar 2020 19:10:47 +0000"
-    description: "
-Este es un episodio especial realizado en tiempos de crisis, grabado el 15 de marzo de 2020, al comienzo del encierro provocado por el estado de alarma nacional a causa de COVID-19. 
+    description: "Este es un episodio especial realizado en tiempos de crisis, grabado el 15 de marzo de 2020, al comienzo del encierro provocado por el estado de alarma nacional a causa de COVID-19. 
 
 
 Un episodio no previsto que te invita a reflexionar y a actuar.Aquí están los enlaces de las notas del episodio:
@@ -1120,15 +1076,12 @@ Un episodio no previsto que te invita a reflexionar y a actuar.Aquí están los 
 	+ <https://foro.coronavirusmakers.org/>
 	+ <https://t.me/coronavirus_makers>
 	+ <https://www.youtube.com/watch?v=i0NWzQ7DqMc>
-
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/131/e5-llamada-a-la-accion.mp3"
   - title: "E4: ¿Cómo genera dinero el negocio del software?"
     link: "https://podcast.carlosble.com/podcast/e4-como-genera-dinero-el-negocio-del-software/"
     date: "Sun, 08 Mar 2020 19:32:14 +0000"
-    description: "
-Vamos con otro episodio arriesgado, donde hablamos de modelos de negocio en la industriad el software, salarios, valores, riesgos, estrategias. 
+    description: "Vamos con otro episodio arriesgado, donde hablamos de modelos de negocio en la industriad el software, salarios, valores, riesgos, estrategias. 
 
 
 En el podcast cito este libro: [The Business Of Software de Erik Sink](https://www.amazon.es/Eric-Business-Software-Experts-Voice/dp/1590596234) 
@@ -1136,18 +1089,15 @@ En el podcast cito este libro: [The Business Of Software de Erik Sink](https://w
 
 Relacionado con este podcast tengo este post que escribí en mi blog hace algunos meses: [¿De dónde sale el dinero para contratar developers?](https://www.carlosble.com/2019/09/de-donde-sale-el-dinero-para-contratar-developers/?lang=es)
 
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/130/e4-como-genera-dinero-el-negocio-del-software.mp3"
   - title: "Episodio 3: ¿Cómo te conviertes en developer?"
     link: "https://podcast.carlosble.com/podcast/episodio-3-como-te-conviertes-en-developer/"
     date: "Thu, 20 Feb 2020 22:56:09 +0000"
-    description: "
-En este (posiblemente polémico) episodio te cuento mi opinión sobre los diversos caminos que hay para adentrarse y progresar como profesional de la programación. Universidad, ciclos de formación profesional, bootcamps, formación autodidacta... Es una conversación recurrente entre developers y me apetecía hablar de ello. 
+    description: "En este (posiblemente polémico) episodio te cuento mi opinión sobre los diversos caminos que hay para adentrarse y progresar como profesional de la programación. Universidad, ciclos de formación profesional, bootcamps, formación autodidacta... Es una conversación recurrente entre developers y me apetecía hablar de ello. 
 
 
 Mi resumen rápido del podcast es que lo más importante no es el camino que elijas sino tu actitud. Ganas, curiosidad, constancia y espíritu de aprendizaje continuo. Hoy en día el título no es lo más importante a la hora de encontrar trabajo en el mundo de la programación sino el conocimiento, el saber hacer. Si volviera atrás en el tiempo igualmente iría a la universidad pero no para obtener el título sino para cursar aquellas asignaturas de computación que me aportaron, es decir, ni siquiera cursaría todas las asignaturas porque personalmente muchas de ellas no me aportaron nada. Hoy en día en la era del conocimiento, no cursaría ni siquiera un programa reglado si en mi entorno existiese una comunidad de práctica en la que apoyarme, porque con eso y los materiales que están online, cursos, libros, etc, todo lo demás que se necesitan son horas de practicar y practicar. 
-
 
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/127/episodio-3-como-te-conviertes-en-developer.mp3"
@@ -1155,7 +1105,6 @@ Mi resumen rápido del podcast es que lo más importante no es el camino que eli
     link: "https://podcast.carlosble.com/podcast/episodio-2-formacion-y-aprendizaje/"
     date: "Sun, 26 Jan 2020 18:26:03 +0000"
     description: "
-
 
 
 
@@ -1196,15 +1145,12 @@ Formación Online:
 * [Akimbo Workshops](https://www.akimboworkshops.com/)
 * [Codely.tv](https://codely.tv)
 * [Clean Coders](https://cleancoders.com)
-
-
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/118/episodio-2-formacion-y-aprendizaje.mp3"
   - title: "Episodio 1: Tu formación es tu responsabilidad"
     link: "https://podcast.carlosble.com/podcast/episodio-1-tu-formacion-es-tu-responsabilidad/"
     date: "Mon, 13 Jan 2020 14:04:20 +0000"
     description: "
-
 
 
 
@@ -1221,7 +1167,6 @@ En este episodio respondo a algunas preguntas que me hacen habitualmente sobre e
 
 
  
-
 
 "
     link_mp3: "https://podcast.carlosble.com/podcast-download/102/episodio-1-tu-formacion-es-tu-responsabilidad.mp3"

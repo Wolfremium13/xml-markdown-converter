@@ -3,7 +3,7 @@ from src.xml_to_md import XMLToMarkdown
 
 
 if __name__ == "__main__":
-    xml_path = './data/podcast_data.xml'
+    xml_path = './data/updated-xml-data.xml'
     markdown_parsed_content = XMLToMarkdown().parse(xml_path)
 
     output_file_name = 'markdown-converted'
