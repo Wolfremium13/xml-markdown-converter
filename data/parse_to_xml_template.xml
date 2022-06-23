@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+		<title>Ni cero, ni uno</title>
+		<link>https://savvily.es/podcasts/ni-cero-ni-uno/</link>
+		<description>Un punto de vista diferente, peculiar y atrevido sobre la industria del desarrollo de software y sobre las habilidades que más se necesitan en este mundo tecnológico que en verdad gira en torno a las personas.
+
+Carlos Blé, fundador de varias empresas y actual director de Lean Mind, narra sus experiencias y cuenta con colaboraciones de profesionales de diversos ámbitos.</description>
+		<lastBuildDate>Wed, 01 Jun 2022 15:03:09 +0000</lastBuildDate>
+		<language>es</language>
+		<copyright>© 2021 Savvily</copyright>
+		<itunes:subtitle>Habilidades esenciales en un mundo tecnológico</itunes:subtitle>
+		<itunes:author>Carlos Blé</itunes:author>
+		<itunes:type>episodic</itunes:type>
+		<itunes:summary>Un punto de vista diferente, peculiar y atrevido sobre la industria del desarrollo de software y sobre las habilidades que más se necesitan en este mundo tecnológico que en verdad gira en torno a las personas.
+
+Carlos Blé, fundador de varias empresas y actual director de Lean Mind, narra sus experiencias y cuenta con colaboraciones de profesionales de diversos ámbitos.</itunes:summary>
+		<itunes:owner>
+			<itunes:name>Carlos Blé</itunes:name>
+			<itunes:email>carlos@carlosble.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:complete>yes</itunes:complete>
+		<itunes:image href="https://podcast.carlosble.com/wp-content/uploads/2021/10/nicero_niuno.jpg"></itunes:image>
+		<image>
+			<url>https://podcast.carlosble.com/wp-content/uploads/2021/10/nicero_niuno.jpg</url>
+			<title>Ni cero, ni uno</title>
+			<link>https://savvily.es/podcasts/ni-cero-ni-uno/</link>
+		</image>
+		<itunes:category text="Society &amp; Culture">
+			<itunes:category text="Philosophy"></itunes:category>
+		</itunes:category>
+		<itunes:category text="Technology"></itunes:category>
+		<itunes:category text="Education"></itunes:category>
+		<podcast:locked owner="carlos@carlosble.com">yes</podcast:locked>
+		<podcast:guid>dcf1e251-d17c-5ef0-ba70-1c616d08aecf</podcast:guid>
+	</channel>
+</rss>
