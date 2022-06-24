@@ -18,11 +18,11 @@ lint:   ## Lint the project files
 
 .PHONY: tests
 tests:  ## Locally run tests
-	@PYTHONPATH=src PIPENV_VERBOSITY=-1 pipenv run pytest -v tests/
+	@PIPENV_VERBOSITY=-1 pipenv run pytest -v tests/
 
 .PHONY: run-local
 run-local: ## Runs locally the project
-	@PYTHONPATH=src PIPENV_VERBOSITY=-1 pipenv run python -m src
+	@PIPENV_VERBOSITY=-1 pipenv run python -m src
 
 OUTPUT_XML_FILE = ./data/updated-xml-data.xml
 .PHONY: update-xml
@@ -30,3 +30,12 @@ update-xml: ## Updates the xml file
 	@echo "Starting download of the xml file"
 	@wget "https://podcast.carlosble.com/feed/podcast" --output-document=$(OUTPUT_XML_FILE)
 	@echo "Finished download in $(OUTPUT_XML_FILE)"
+
+.PHONY: build-image
+build-image:  ## Create a docker image
+	@docker build -t "xml-markdown-converter" $(PWD)
+
+.PHONY: run-image
+run-image:  ## Run docker image (needs build first)
+	
+	@docker run --rm --volume "$(PWD)/data":/data xml-markdown-converter make run-local
