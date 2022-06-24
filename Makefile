@@ -37,5 +37,4 @@ build-image:  ## Create a docker image
 
 .PHONY: run-image
 run-image:  ## Run docker image (needs build first)
-	
 	@docker run --rm --volume "$(PWD)/data":/data xml-markdown-converter make run-local

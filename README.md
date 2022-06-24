@@ -1,6 +1,7 @@
 # 🐍 XML to Markdown converter and viceversa
 
 ## 🗃️ Requirements
+
 - Python 3.10
 - Pipenv
 
@@ -16,9 +17,13 @@ make setup
 make help
 ```
 
+# 📝 How to use it
+
+- [Usage](/docs/usage.md)
+
 # 📕 Documentation
 
-## 📝 Setup project
+## 📄 Setup project
 
 - ### [Setup python guide](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-windows-10)
 
