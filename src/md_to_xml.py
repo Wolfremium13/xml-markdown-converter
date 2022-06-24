@@ -14,6 +14,7 @@ class MarkdownToXML:
 
     def _read_files(self, folder_path: str) -> str:
         all_folder_files = os.listdir(folder_path)
+        all_folder_files.sort(reverse=True)
         md_file_names = [f for f in all_folder_files if f
                          != "episodios.md"]  # Duplicated content
         md_paths = [f"{folder_path}{file_name}" for file_name in md_file_names]
