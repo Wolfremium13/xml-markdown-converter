@@ -19,7 +19,7 @@ make help
 
 # 📝 How to use it
 
-- [Usage](/docs/usage.md)
+- [Usage](docs/usage.md)
 
 # 📕 Documentation
 

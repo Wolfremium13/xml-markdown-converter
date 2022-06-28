@@ -1,5 +1,28 @@
 # 🔖 Usage
 
+## Prerequisites
+
+The easiest way to run this project is with Docker and the make command.
+
+## Getting started
+
+1. Build the Docker image with:
+
+```
+make build-image
+```
+
+2. Run docker container to convert all markdown episodes to xml file.
+
+```
+make run-image
+```
+
+3. The xml file generated should be `/data/template_converted.xml`. If the file 
+`/data/template_converter.xml` was already created previously, it is recommended to delete it
+and run the command `make run-image` when new episodes are added to the folder `data/podcasts/ni-cero-ni-uno/episodios`.
+
+   
 ## Requirements and context
 
 Check /data folder contains `parse_to_xml_template.xml`, `/podcast` folder like
