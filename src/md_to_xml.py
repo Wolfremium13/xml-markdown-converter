@@ -1,6 +1,8 @@
 import os
 import xml.etree.ElementTree as ET
 from markdown import Markdown
+from datetime import datetime
+import pytz
 
 from src.episode import Episode
 
@@ -53,7 +55,10 @@ class MarkdownToXML:
             item.append(title)
             link = ET.fromstring(f"<link>{episode.link}</link>")
             item.append(link)
-            date = ET.fromstring(f"<pubDate>{episode.date}</pubDate>")
+            episode_date = datetime.strptime(episode.date, '%Y-%m-%d')
+            episode_date_with_timezone = pytz.utc.localize(episode_date)
+            episode_date_with_timezone_formatted = episode_date_with_timezone.strftime("%a, %d %b %Y %-H:%M:%S %z")
+            date = ET.fromstring(f"<pubDate>{episode_date_with_timezone_formatted}</pubDate>")
             item.append(date)
             guid = ET.fromstring(f"<guid isPermaLink=\"false\">{episode.link}</guid>")
             item.append(guid)
